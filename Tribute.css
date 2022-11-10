@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background: white;
+  }
+  main {
+    margin:10px;
+    background: gray;
+    color:white;
+    text-align: center;
+  }
+  img {  
+      max-width: 100%;
+      display: block;
+      height: auto;
+      margin: 0 auto;
+  }
+  section {
+      display: block;
+  }
+  ul {
+      max-width: 550px;
+      margin: 0 auto 50px auto;
+      text-align: left;
+      line-height: 1.6;
+  }
+  li {
+      margin: 16px 0;
+  }
+  blockquote {
+      font-style: italic;
+      max-width: 545px;
+      margin: 0 auto 50px auto;
+      text-align: left;
+  }
+  a {
+      color: #477ca7;
+  }
